@@ -1,0 +1,6 @@
+#language: pt
+Funcionalidade: Comprar Produto
+	Fluxo de compras no site Petz
+	#envolve as paginas Home, Detalhe Paginas, Resultado da Consulta
+	
+	Cenario: 

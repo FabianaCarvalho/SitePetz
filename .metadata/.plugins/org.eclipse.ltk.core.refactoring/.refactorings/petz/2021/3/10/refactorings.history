@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;petz/chromedriver_87&apos; to &apos;chromedriver_89&apos;" description="Rename resource &apos;chromedriver_87&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="chromedriver_87" name="chromedriver_89" stamp="1614884287238" updateReferences="true"/>
+</session>

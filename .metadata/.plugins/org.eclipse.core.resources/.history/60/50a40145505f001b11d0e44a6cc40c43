@@ -1,0 +1,19 @@
+package petz;
+
+import org.junit.Before;
+import org.openqa.selenium.WebDriver;
+
+
+public class Simples {
+
+	String url;
+	WebDriver driver;
+	
+	@Before
+	public void iniciar() {
+		url = "https://www.petz.com.br";
+		
+		System.setProperty("webdriver.chrome.driver", "chromedriver_87/chromedriver.exe");
+		
+	}
+}

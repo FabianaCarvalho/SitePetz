@@ -1,0 +1,16 @@
+JRE_LIB=C\:/Program Files/Java/jdk1.8.0_271/jre/lib/rt.jar
+JRE_SRC=C\:/Program Files/Java/jdk1.8.0_271/src.zip
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/Qintess/eclipse/jee-2020-092/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_271/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/Qintess/.p2/pool/plugins/org.junit_4.13.0.v20200204-1500.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/Qintess/.m2/repository
+org.eclipse.jdt.core.classpathVariable.TESTNG_HOME=C\:/Users/Qintess/eclipse/jee-2020-092/eclipse/configuration/org.eclipse.osgi/952/0/.cp
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=15
+org.eclipse.jdt.core.compiler.compliance=15
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=15
